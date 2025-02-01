@@ -1,5 +1,10 @@
 Name: Prince Maynard M. Masilac
 Section: 3IS1
+<<<<<<< HEAD
 Program: BS Computer Science
 Address: 
+=======
+Program: BS Computer Science 
+Address: Tiaong, Quezon
+>>>>>>> 78a6f953b8de3ee6e88364f541c16275676a3296
 
