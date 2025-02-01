@@ -1,5 +1,5 @@
-Name: 
-Section: 
-Program: 
+Name: Prince Maynard M. Masilac
+Section: 3IS1
+Program: BS Computer Science 
 Address: 
 
